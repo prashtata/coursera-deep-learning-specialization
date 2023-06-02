@@ -4,3 +4,4 @@
 *.mat filter=lfs diff=lfs merge=lfs -text
 *.txt filter=lfs diff=lfs merge=lfs -text
 *.zip filter=lfs diff=lfs merge=lfs -text
+/home/prashtata/machine-learning/coursera-deep-learning-specialization/C1[[:space:]]-[[:space:]]Neural[[:space:]]Networks[[:space:]]and[[:space:]]Deep[[:space:]]Learning/Week[[:space:]]2/Logistic[[:space:]]Regression[[:space:]]as[[:space:]]a[[:space:]]Neural[[:space:]]Network/datasets/*.h5 filter=lfs diff=lfs merge=lfs -text
